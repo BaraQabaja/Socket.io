@@ -1,0 +1,12 @@
+//my name is bara qabaja
+//to run this app
+//1)npm intall 
+//2)nodemon server.js
+//3)go to localhost:3000
+
+//to connect any device to this chat ,the device should be connected to the same network
+//go to search bar 
+//write http://[write your ipv4 address]:3000/
+
+
+
